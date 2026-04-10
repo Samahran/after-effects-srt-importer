@@ -24,7 +24,7 @@ Designed for lyric videos, subtitle editing, and motion graphics workflows — s
 2. Move it to:
 
    ```
-   After Effects > Support Files > Scripts > ScriptUI Panels
+   C:\Program Files\Adobe\Adobe After Effects 2026\Support Files\Scripts\ScriptUI Panels
    ```
 
 3. Restart Adobe After Effects
